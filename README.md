@@ -1,4 +1,4 @@
-esdoc-admin
+esdoc-project
 ===============
 
 Top-level repository used for project management of the entire ES-DOC project.
