@@ -3,7 +3,7 @@ ES-DOC Stack v0.9.3.1 - Change log
 =================================================================
 
 -----------------------------------------------------------------
-Web - splash page - http://es-doc.org
+Web - splash page - https://es-doc.org
 -----------------------------------------------------------------
 
 - Improvement: Ensured all links are opened in a new tab
