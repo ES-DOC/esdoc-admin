@@ -1,5 +1,5 @@
 =================================================================
-ES-DOC Stack v0.9.2.0 - Change log
+ES-DOC Stack v0.9.1.0 - 08-10-2014 - Release Notes
 =================================================================
 
 -- Changed the API to index CIM Document Sets as a unit. CMIP5 records are bundled as CIM Document Sets that contain several documents (e.g. Grid, Model Component, Experiment, Simulation etc.). Indexing these as a bundle simplifies the code base and allows the Viewer to also handle Document Sets.
