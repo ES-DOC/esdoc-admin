@@ -1,0 +1,7 @@
+=================================================================
+ES-DOC Stack v0.9.1.1 - 29-11-2014
+=================================================================
+
+- Modified the pyesdoc configuration process so that users can a drop configuration file into their home directory.
+
+- Modified the Viewer to link to Experiment information that is part of a CMIP5 CIM Document set vice the stand alone Experiment documents that were created prior to CMIP5.

@@ -1,0 +1,96 @@
+=================================================================
+ES-DOC Stack v0.9.7.0 - Change log
+=================================================================
+
+-----------------------------------------------------------------
+Web - splash page - https://es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Web - wordpresss site - https://wordpress.es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+New - CMIP6 pages initialized
+
+-----------------------------------------------------------------
+Web - search page - http://search.es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+Update - latest CMIP6 documents published in draft
+
+-----------------------------------------------------------------
+Web - comparator page - http://compare.es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Web - viewer page - http://view.es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Web - viewer Demo page - http://demo.es-doc.org
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Web - static Files - https://github.com/ES-DOC/esdoc-static
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Javascript plugin - https://github.com/ES-DOC/esdoc-js-client
+-----------------------------------------------------------------
+
+- Update: rebuilt js file (http://static.es-doc.org/esdoc.js)
+
+- Update: rebuilt css file (http://static.es-doc.org/esdoc.css)
+
+-----------------------------------------------------------------
+pyesdoc - https://github.com/ES-DOC/esdoc-py-client
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Web - API - https://github.com/ES-DOC/esdoc-api
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Meta-Programming Framework - https://github.com/ES-DOC/esdoc-mp
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+Shell - https://github.com/ES-DOC/esdoc-shell
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+cdf2cim - https://github.com/ES-DOC/esdoc-cdf2cim
+		  https://github.com/ES-DOC/esdoc-cdf2cim-ws
+----------------------------------------------------------------
+
+Update - deployed over HTTPS
+
+-----------------------------------------------------------------
+errata - https://github.com/ES-DOC/esdoc-errata
+		 https://github.com/ES-DOC/esdoc-errata-fe
+		 https://github.com/ES-DOC/esdoc-errata-ws
+-----------------------------------------------------------------
+
+Update - deployed over HTTPS

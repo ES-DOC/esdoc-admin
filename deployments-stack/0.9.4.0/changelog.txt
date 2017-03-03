@@ -1,0 +1,82 @@
+=================================================================
+ES-DOC Stack v0.9.4.0 - Change log
+=================================================================
+
+-----------------------------------------------------------------
+Web - splash page - https://es-doc.org
+-----------------------------------------------------------------
+
+N/A
+
+-----------------------------------------------------------------
+Web - search page - http://search.es-doc.org
+-----------------------------------------------------------------
+
+Update - latest CMIP6 documents published in draft
+
+Update - 3rd party dependencies upgraded to latest version
+
+-----------------------------------------------------------------
+Web - comparator page - http://compare.es-doc.org
+-----------------------------------------------------------------
+
+Update - 3rd party dependencies upgraded to latest version
+
+-----------------------------------------------------------------
+Web - viewer page - http://view.es-doc.org
+-----------------------------------------------------------------
+
+Update - 3rd party dependencies upgraded to latest version
+
+-----------------------------------------------------------------
+Web - viewer Demo page - http://demo.es-doc.org
+-----------------------------------------------------------------
+
+Update - 3rd party dependencies upgraded to latest version
+
+-----------------------------------------------------------------
+Web - static Files - https://github.com/ES-DOC/esdoc-static
+-----------------------------------------------------------------
+
+N/A
+
+-----------------------------------------------------------------
+Javascript plugin - https://github.com/ES-DOC/esdoc-js-client
+-----------------------------------------------------------------
+
+- Update: rebuilt js file (http://static.es-doc.org/esdoc.js)
+
+- Update: rebuilt css file (http://static.es-doc.org/esdoc.css)
+
+-----------------------------------------------------------------
+pyesdoc - https://github.com/ES-DOC/esdoc-py-client
+-----------------------------------------------------------------
+
+N/A
+
+-----------------------------------------------------------------
+Web - API - https://github.com/ES-DOC/esdoc-api
+-----------------------------------------------------------------
+
+Update - Reinforced endpoint request validation
+
+New - publishing endpoints updated
+
+-----------------------------------------------------------------
+Meta-Programming Framework - https://github.com/ES-DOC/esdoc-mp
+-----------------------------------------------------------------
+
+New - initial specializations support
+
+New - specializations modelled
+
+New - specializations parser
+
+New - specializations loader
+
+-----------------------------------------------------------------
+Shell - https://github.com/ES-DOC/esdoc-shell
+-----------------------------------------------------------------
+
+New - CMIP6 experiments spreadsheet processor
+
