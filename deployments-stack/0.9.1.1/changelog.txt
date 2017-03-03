@@ -1,5 +1,5 @@
 =================================================================
-ES-DOC Stack v0.9.1.1 - 29-11-2014
+ES-DOC Stack v0.9.1.1 - 29-11-2014 - Release Notes
 =================================================================
 
 - Modified the pyesdoc configuration process so that users can a drop configuration file into their home directory.
