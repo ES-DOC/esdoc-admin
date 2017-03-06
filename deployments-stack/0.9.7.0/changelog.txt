@@ -87,6 +87,8 @@ cdf2cim - https://github.com/ES-DOC/esdoc-cdf2cim
 
 Update - deployed over HTTPS
 
+New - client maps publishes CDF2CIM files to web-service
+
 -----------------------------------------------------------------
 errata - https://github.com/ES-DOC/esdoc-errata
 		 https://github.com/ES-DOC/esdoc-errata-fe
@@ -94,3 +96,7 @@ errata - https://github.com/ES-DOC/esdoc-errata
 -----------------------------------------------------------------
 
 Update - deployed over HTTPS
+
+New - added db table to store PID service updates
+
+New - added job to process pending PID service updates

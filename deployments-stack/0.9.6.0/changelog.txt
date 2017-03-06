@@ -87,7 +87,17 @@ cdf2cim - https://github.com/ES-DOC/esdoc-cdf2cim
 		  https://github.com/ES-DOC/esdoc-cdf2cim-ws
 ----------------------------------------------------------------
 
-N/A
+New - stub web-service endpoint
+
+New - web-service authentication against GitHub API
+
+New - web-service authenticates against GitHub API
+
+New - web-service validates incoming cdf2cim files
+
+New - client scans directories of CMIP5/CMIP6 NetCDF files
+
+New - client maps scanned NetCDF files to CDF2CIM files
 
 -----------------------------------------------------------------
 errata - https://github.com/ES-DOC/esdoc-errata
@@ -95,4 +105,16 @@ errata - https://github.com/ES-DOC/esdoc-errata
 		 https://github.com/ES-DOC/esdoc-errata-ws
 -----------------------------------------------------------------
 
-N/A
+New - front-end supports filtering by facets such as experiment, model & variable
+
+New - web-service supports filtering by facets such as experiment, model & variable
+
+New - web-service authentication against GitHub API
+
+New - web-service authorization against GitHub API
+
+New - web-service daemon process
+
+New - web-service installer
+
+
