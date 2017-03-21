@@ -70,3 +70,16 @@ Shell - https://github.com/ES-DOC/esdoc-shell
 
 N/A
 
+-----------------------------------------------------------------
+errata - https://github.com/ES-DOC/esdoc-errata
+		 https://github.com/ES-DOC/esdoc-errata-fe
+		 https://github.com/ES-DOC/esdoc-errata-ws
+-----------------------------------------------------------------
+
+New - added search & view HTML pages
+
+New - added PID lookup HTML page
+
+New - added JSON web-service to interact with back-end dB from front-end
+
+New - light-weight command line client
